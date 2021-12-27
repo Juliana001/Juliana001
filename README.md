@@ -8,4 +8,4 @@
 - Pronouns: she/her
 -  Fun fact: BAZINGA😜
 
-![Lulamolusmco](https://www.pinpng.com/pngs/m/22-224869_squidward-tentacles-lula-molusco-bob-esponja-hd-png.png)
+![Lulamolusmco](https://w7.pngwing.com/pngs/28/435/png-transparent-spongebob-squarepants-plankton-plankton-and-karen-sandy-cheeks-squidward-tentacles-spongebob-squarepants-patrick-star-sheldon-plankton-spongebob-leaf-head-grass-thumbnail.png)
