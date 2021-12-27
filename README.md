@@ -4,8 +4,9 @@
 
 
 - I’m currently learning JavaScript
-- I’m looking for help with JavaScript (at the moment)
+- I’m looking for help with JavaScript (at the moment)                                 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+        
 - Pronouns: she/her
 -  Fun fact: BAZINGA😜
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
