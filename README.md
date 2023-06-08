@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Juliana
+# Olá! 👋, eu sou Juliana
 
-### I am a Computer Engineering student in love with society and technology.
+### Sou uma estudante de Engenharia de Computação apaixonada por tecnologia e sociedade
 
 
 - I’m currently Java                                 
