@@ -6,4 +6,4 @@
 - Atualmente estou aprendendo Python                                 
 - Pronomes: Ela/Dela
 -  Fun fact: BAZINGA😜
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image]("C:\Users\wwwju\Downloads\octocat-1715947768943.png")
