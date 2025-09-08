@@ -4,7 +4,7 @@
 ### Sou estudante de Engenharia de Computação e apaixonada por tecnologia 
 
 
-- Atualmente estou aprendendo Machine Learn e Computer vision em Python                                
+- Atualmente estou aprendendo algoritmos de redes neurais profundas para a minha iniciação ciêntififca de Detecção de incêndios no cerrado                              
 - Pronomes: Ela/Dela
 - Fun fact: BAZINGA😜
 
