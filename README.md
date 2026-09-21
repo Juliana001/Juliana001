@@ -1,4 +1,4 @@
-![Texto Alternativo](imagens/JulianadoNRocha.png))
+![Texto Alternativo](imagens/JulianadoNRocha.png)
 
 
 # Olá, eu sou a Juliana 🤍
